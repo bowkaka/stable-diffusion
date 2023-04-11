@@ -1,0 +1,9 @@
+
+上方區塊（正面標籤）
+
+<lora:koreanDollLikeness_v15:0.35>,<lora:japaneseDollLikeness_v10:0.2>,(messy pink hair), hair between eyes,(photorealistic:1.4),best quality, ultra high res, 4k, instagram, higly detailed, black skirt, black socks, blue eyes, (cube hair ornament), (hair ornament), (black electric guitar), gibson les paul, guitar, holding, holding black instrument, black instrument, jacket,light particles, music, (light pink hair), (pink jacket), playing instrument, pleated skirt, skirt, track jacket, VirtualGirl-Aim, (big breasts), long hair, crystal pendant, <lora:hitoriGotohBocchiThe_v1:1>
+
+
+下方區塊（負面標籤）
+
+EasyNegative, ng_deepnegative_v1_75t,paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, (monochrome), (grayscale), acnes,skin spots, skin blemishes, age spot,extra fingers,fewer fingers,
